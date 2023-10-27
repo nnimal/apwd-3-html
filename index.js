@@ -1,0 +1,11 @@
+let name='Kini';
+let age=34;
+let address='Caleri road, Batticloa';
+const regNo='10';
+console.log('Register number is ',regNo);
+let biologyClassArray=["Sudahar","Mnoj","Mr Copal"];
+let biologyClassOblect={f1Name:'Sudahar',f2Name:'Mnoj' ,f3Name:'Mr Copal'};
+console.log(biologyClassArray);
+console.log(biologyClassOblect);
+console.log(biologyClassArray[0]);
+console.log(biologyClassOblect['f1Name']);
